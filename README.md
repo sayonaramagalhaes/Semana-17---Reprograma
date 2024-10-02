@@ -1,5 +1,6 @@
 # Semana-17---Reprograma
 Análise de Dados do Sistema Nacional de Transplantes
+
 Descrição do Projeto
 Este projeto tem como objetivo analisar os dados dos relatórios do Sistema Nacional de Transplantes do Ministério da Saúde do Brasil, abrangendo o período de 2013 a 2023.
 Os dados analisados incluem:
@@ -10,7 +11,7 @@ Os dados focam especificamente no estado do Rio Grande do Norte.
 
 Objetivos da Análise
 Explorar Tendências: Identificar tendências de doações e transplantes ao longo dos anos.
-Analisar a Lista de Espera: Compreender o comportamento da lista de espera .
+Analisar a Lista de Espera: Compreender o comportamento da lista de espera.
 Comparar Dados: Realizar comparações entre o número de doações e transplantes realizados.
 
 Metodologia
@@ -21,7 +22,7 @@ Relatórios e Visualizações: Geração de gráficos e dashboards para facilita
 
 Tecnologias Utilizadas
 Linguagem: Python
-Bibliotecas: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+Bibliotecas: Pandas, NumPy, Matplotlib, no colab google
 
 Conclusão
 Esperamos que esta análise forneça insights valiosos sobre o cenário de transplantes no Rio Grande do Norte e contribua para a melhoria das políticas públicas de saúde.
